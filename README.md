@@ -1,2 +1,3 @@
-# ClassicASP-PageFabricator
-DEPRECIATED. For modernizing Classic ASP sites by building a 'Strangler Application'
+*Cleaning out my hard drives; this project is not maintained.*
+
+Any and all documentation is inline with code.
